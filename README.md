@@ -1,1 +1,0 @@
-# Technical1-Shapes
