@@ -1,0 +1,7 @@
+ACTIVITY 1.2: User-defined Functions (Passing by value) 
+Create a program with a user-defined function that compute the area of the following polygons and circle. You are to create one user-defined function for every computation. The functions must accept parameters by reference. 
+ 
+•	Area of square given the side. 
+•	Area of rectangle given the length and width. 
+•	Area of triangle given the base and height. 
+•	Area of circle given the radius.
